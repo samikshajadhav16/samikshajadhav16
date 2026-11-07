@@ -42,34 +42,45 @@ AI-powered resume analysis platform.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**🔄 SquadSync: catching team conflicts before they happen** · [Live demo](https://hack-nova-squad-sync.vercel.app) · [Code](https://github.com/samikshajadhav16/HackNova_SquadSync)
-Built for **Hacknova'26** *(team project)*. Student teams often find out too late that one person is carrying the work, code is being merged without review, or two branches will clash. SquadSync reads a team's Git activity and task board, flags those risks early, and shows each one as a plain sentence with the evidence, a suggested action, and a picture of what will go wrong. It never judges people by commit count.
+### [SquadSync: Catching Team Conflicts Before They Happen](https://github.com/samikshajadhav16/HackNova_SquadSync) [Live demo](https://hack-nova-squad-sync.vercel.app)
+Built for **Hacknova'26**. Reads a student team's Git activity and task board to flag collaboration risks early, such as one person carrying the work, code merged without review, or branches that will conflict. Each risk comes with a plain sentence, the evidence, a suggested action, and a picture of what will go wrong. It never judges people by commit count. *(Team project)*
+- Rule-based analysis engine for workload balance, review gaps, late merges, and a conflict radar for overlapping files and lines
+- Gemini is used only for wording, task matching, and splitting a PRD into work, and code checks every AI answer before it is shown
+- Mentor dashboard, live analysis of any GitHub repo, and a Chromium side-panel extension
+- **UI design:** designed the dashboard experience so risks, evidence, and conflict pictures are easy for a student or mentor to read at a glance
+- **Browser extension:** built a Chromium side-panel extension that shows SquadSync's verdict and top risks right beside any GitHub repo page
+- **Repo analysis:** worked on the analysis that turns raw repo activity (commits, pull requests, reviews, branches) into the signals behind each risk
 
-- 🔍 Rule-based analysis engine for workload balance, review gaps, late merges and a conflict radar for overlapping files and lines
-- 🤖 Gemini is used only for wording, task matching and splitting a PRD into work, and code checks every AI answer before it is shown
-- 🧩 Includes a mentor dashboard, live analysis of any GitHub repo, and a Chromium side-panel extension
-- **What I built:**
-- 🎨 **UI design:** designed the dashboard experience so risks, evidence and conflict pictures are easy for a student or mentor to read at a glance
-- 🧩 **Browser extension:** built a Chromium side-panel extension that shows SquadSync's verdict and top risks right beside any GitHub repo page
-- 🔍 **Repo analysis:** worked on the analysis that turns raw repo activity (commits, pull requests, reviews, branches) into the signals behind each risk
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub_REST_API-181717?style=flat&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-
-`Next.js` `TypeScript` `GitHub REST API` `Gemini` `Vercel`
 [More on my repositories →](https://github.com/samikshajadhav16)
 
 ## 💡 Toolbox
 
+**Languages**<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Web & App Development**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+
+**Databases & Tools**<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🏅 Moments I'm proud of
@@ -78,7 +89,7 @@ Built for **Hacknova'26** *(team project)*. Student teams often find out too lat
 - 🚀 **Top 10 finalist** at the Code The Cause Hackathon 2026
 - 📝 **Winner** of the TECHNO-INNOVA 2024 national technical paper presentation
 - 🎓 **64th state rank** in the MSBTE Diploma Examinations
-- 🧠 **460+ DSA problems** solved, and a CodeChef peak rating of 1361
+- 🧠 **460+ DSA problems** solved, and a CodeChef peak rating of 1360
 - 🏫 Taught AI concepts to school students through a community engagement program
 
 ## 📫 Let's connect
