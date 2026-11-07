@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Samiksha+%F0%9F%91%8B;Building+things+with+code+%26+data;Currently+exploring+AI%2FML+%26+Data+Analytics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Samiksha+%F0%9F%91%8B;Building+things+with+code+%26+data;Turning+ideas+into+impact+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -16,18 +16,47 @@ When I'm not building, I'm usually solving DSA problems, entering hackathons and
 - 📊 **Learning Data Analytics**: finding patterns in data and turning them into insights people can act on
 - 🧩 **Sharpening my problem solving**: steady DSA practice on LeetCode and CodeChef
 - 🌱 **Looking for**: SDE internship opportunities where I can build real products and learn from a team
+- 
 
 ## 🛠️ Things I've built
 
-**🤝 Sahayog: helping NGOs run their field work**
-A team project to make field operations less paper-heavy. Field workers mark attendance through **face recognition** (my part, built with Flask), and admins manage tasks and reports from a dashboard I designed. Everything is stored in MongoDB Atlas.
-`Flask` `Python` `MongoDB` `Face Recognition`
+### [Sahayog: Smart Field Operation Management System](https://github.com/samikshajadhav16/SheSolves3.0_Sahayog) [Live demo](https://she-solves3-0-sahayog.vercel.app/)
+Web-based system for managing NGO field operations. *(Team project)*
+- Face recognition-based attendance system using Flask for secure identity verification
+- Admin dashboard to manage users, tasks, and reports
+- MongoDB Atlas with a document-based NoSQL schema for dynamic, scalable data
+- Attendance, task assignment, and reporting workflows
+- **Voice-controlled multilingual UI:** tap the mic and say *"turn this into Marathi"*, and the entire website switches language instantly, so field workers can use it in their own language without typing or hunting through menus
+- **Impact stories on the admin dashboard:** turns raw field data into real impact stories, so admins and donors can see the difference the work is making, not just attendance counts
 
-**📄 Resumind: an AI resume coach**
-Upload your resume and get an ATS-style score with AI-written suggestions on how to improve it. I built it with React and Puter.js, and it was my first project where AI was the core feature rather than an add-on.
-`React` `Puter.js` `CSS`
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-[➡️ See all my repositories](https://github.com/samikshajadhav16?tab=repositories)
+### [Resumind: AI Resume Analyzer](https://github.com/samikshajadhav16/Ai_resume_analyzer) [Live demo](https://resumindairesumeanalyzer.vercel.app/)
+AI-powered resume analysis platform.
+- Resume upload, ATS-style evaluation, and AI-generated feedback
+- Responsive, reusable UI components built with React and React Router
+- Puter.js for AI capabilities, authentication, and file handling
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**🔄 SquadSync: catching team conflicts before they happen** · [Live demo](https://hack-nova-squad-sync.vercel.app) · [Code](https://github.com/samikshajadhav16/HackNova_SquadSync)
+Built for **Hacknova'26** *(team project)*. Student teams often find out too late that one person is carrying the work, code is being merged without review, or two branches will clash. SquadSync reads a team's Git activity and task board, flags those risks early, and shows each one as a plain sentence with the evidence, a suggested action, and a picture of what will go wrong. It never judges people by commit count.
+
+- 🔍 Rule-based analysis engine for workload balance, review gaps, late merges and a conflict radar for overlapping files and lines
+- 🤖 Gemini is used only for wording, task matching and splitting a PRD into work, and code checks every AI answer before it is shown
+- 🧩 Includes a mentor dashboard, live analysis of any GitHub repo, and a Chromium side-panel extension
+- **What I built:**
+- 🎨 **UI design:** designed the dashboard experience so risks, evidence and conflict pictures are easy for a student or mentor to read at a glance
+- 🧩 **Browser extension:** built a Chromium side-panel extension that shows SquadSync's verdict and top risks right beside any GitHub repo page
+- 🔍 **Repo analysis:** worked on the analysis that turns raw repo activity (commits, pull requests, reviews, branches) into the signals behind each risk
+
+
+`Next.js` `TypeScript` `GitHub REST API` `Gemini` `Vercel`
+[More on my repositories →](https://github.com/samikshajadhav16)
 
 ## 💡 Toolbox
 
@@ -49,21 +78,12 @@ Upload your resume and get an ATS-style score with AI-written suggestions on how
 - 🥇 **Top 7% nationwide** in The Ken's Case Competition 2026 (168 teams selected out of 6,183)
 - 🚀 **Top 10 finalist** at the Code The Cause Hackathon 2026
 - 📝 **Winner** of the TECHNO-INNOVA 2024 national technical paper presentation
-- 🎓 **64th state rank** in the MSBTE diploma exams
-- 🧠 **460+ DSA problems** solved, and a CodeChef peak rating of 1360
+- 🎓 **64th state rank** in the MSBTE Diploma Examinations
+- 🧠 **460+ DSA problems** solved, and a CodeChef peak rating of 1361
 - 🏫 Taught AI concepts to school students through a community engagement program
-
-## 📈 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samikshajadhav16&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikshajadhav16&layout=compact&theme=tokyonight" />
-</p>
 
 ## 📫 Let's connect
 
-I'm always up for a chat about AI, data, DSA, or a hackathon idea. If you're hiring interns or want to collaborate, say hi!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiksha-jadhav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiksha-jadhav-2664a62b8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samikshajadhavwork@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE-USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/samiksha_jadhav16/)
