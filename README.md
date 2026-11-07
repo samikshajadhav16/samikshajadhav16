@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Samiksha%20Jadhav&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Computer%20Engineering%20%40%20PICT&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Samiksha+%F0%9F%91%8B;Building+things+with+code+%26+data;Turning+ideas+into+impact+!!!" alt="Typing SVG" />
-
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Samiksha+%F0%9F%91%8B;Building+things+with+code+%26+data;Turning+ideas+into+impact+!!!" alt="Typing SVG" />
 
