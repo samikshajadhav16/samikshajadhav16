@@ -1,91 +1,68 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Samiksha+Jadhav;Computer+Engineering+%40+PICT;Java+%7C+Python+%7C+Full-Stack+%7C+DSA;Open+to+SDE+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Samiksha+%F0%9F%91%8B;Building+things+with+code+%26+data;Currently+exploring+AI%2FML+%26+Data+Analytics" alt="Typing SVG" />
 
 </div>
 
-## About Me
+## 👋 A little about me
 
-Computer Engineering student at **Pune Institute of Computer Technology (PICT)** (CGPA 9.75), with a strong foundation in programming, OOP, and Data Structures & Algorithms. I enjoy problem-solving and building full-stack, AI-powered applications.
+I'm a Computer Engineering student at **PICT, Pune**, and I love turning ideas into working software. I started with a diploma in Computer Technology, built my first Android apps during an internship, and then moved into full-stack development and problem solving. These days I'm most curious about how **AI and data** can make everyday tools smarter.
 
-- 🎓 B.Tech in Computer Engineering, PICT (2025–2028), lateral entry after a Diploma in Computer Technology (96.80%)
-- 🏆 Top 7% nationwide in The Ken's Case Competition 2026 (168 of 6,183 teams) · Finalist (Top 10), Code The Cause Hackathon 2026
-- 💻 Solved 460+ DSA problems (280+ on LeetCode) · CodeChef max rating 1360
-- 📱 Former Android Development Intern at Pervade Communications
-- 🔍 Open to Software Engineering internship opportunities. Feel free to reach out!
+When I'm not building, I'm usually solving DSA problems, entering hackathons and case competitions, or teaching school kids what AI actually is.
 
-## Featured Projects
+## 🔭 What I'm up to right now
 
-### [Sahayog: Smart Field Operation Management System](https://github.com/samikshajadhav16/REPO-NAME)
-Web-based system for managing NGO field operations. *(Team project)*
-- Face recognition-based attendance system using Flask for secure identity verification
-- Admin dashboard to manage users, tasks, and reports
-- MongoDB Atlas with a document-based NoSQL schema for dynamic, scalable data
-- Attendance, task assignment, and reporting workflows
+- 🤖 **Exploring AI & Machine Learning**: going from *using* AI APIs in apps to understanding how the models behind them work
+- 📊 **Learning Data Analytics**: finding patterns in data and turning them into insights people can act on
+- 🧩 **Sharpening my problem solving**: steady DSA practice on LeetCode and CodeChef
+- 🌱 **Looking for**: SDE internship opportunities where I can build real products and learn from a team
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+## 🛠️ Things I've built
 
-### [Resumind: AI Resume Analyzer](https://github.com/samikshajadhav16/REPO-NAME)
-AI-powered resume analysis platform.
-- Resume upload, ATS-style evaluation, and AI-generated feedback
-- Responsive, reusable UI components built with React and React Router
-- Puter.js for AI capabilities, authentication, and file handling
+**🤝 Sahayog: helping NGOs run their field work**
+A team project to make field operations less paper-heavy. Field workers mark attendance through **face recognition** (my part, built with Flask), and admins manage tasks and reports from a dashboard I designed. Everything is stored in MongoDB Atlas.
+`Flask` `Python` `MongoDB` `Face Recognition`
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**📄 Resumind: an AI resume coach**
+Upload your resume and get an ATS-style score with AI-written suggestions on how to improve it. I built it with React and Puter.js, and it was my first project where AI was the core feature rather than an add-on.
+`React` `Puter.js` `CSS`
 
-[More on my repositories →](https://github.com/samikshajadhav16?tab=repositories)
+[➡️ See all my repositories](https://github.com/samikshajadhav16?tab=repositories)
 
-## Tech Stack
+## 💡 Toolbox
 
-**Languages**<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**Web & App Development**<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-
-**Databases**<br>
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Tools**<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-**Core CS:** Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · OOP
+## 🏅 Moments I'm proud of
 
-## Stats & Activity
+- 🥇 **Top 7% nationwide** in The Ken's Case Competition 2026 (168 teams selected out of 6,183)
+- 🚀 **Top 10 finalist** at the Code The Cause Hackathon 2026
+- 📝 **Winner** of the TECHNO-INNOVA 2024 national technical paper presentation
+- 🎓 **64th state rank** in the MSBTE diploma exams
+- 🧠 **460+ DSA problems** solved, and a CodeChef peak rating of 1360
+- 🏫 Taught AI concepts to school students through a community engagement program
+
+## 📈 GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=samikshajadhav16&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikshajadhav16&layout=compact&theme=tokyonight" />
 </p>
 
-## Achievements & Certifications
+## 📫 Let's connect
 
-| | |
-|---|---|
-| **Achievements** | Top 7% nationwide, The Ken's Case Competition 2026 (168 of 6,183 teams) · Finalist (Top 10), Code The Cause Hackathon 2026 · Winner, TECHNO-INNOVA 2024 National Technical Paper Presentation · Silver Medalist & 64th State Rank, MSBTE Diploma Exams 2025 |
-| **Competitive Programming** | 460+ DSA problems solved · 280+ on LeetCode · CodeChef highest rating 1360 |
-| **Certifications** | NPTEL: Augmented Design Thinking with HCI (Elite + Silver) · Oracle Databases for Developers (Oracle Dev Gym) · Research paper: *Demystifying AI and Data Science* (AICTE-VANNI) |
-| **Community** | Taught AI concepts to school students (Community Engagement Program) |
-
-## Let's Connect
-
-Looking for Software Engineering internship opportunities. Always happy to talk about DSA, full-stack projects, or AI-powered apps.
+I'm always up for a chat about AI, data, DSA, or a hackathon idea. If you're hiring interns or want to collaborate, say hi!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiksha-jadhav)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samikshajadhavwork@gmail.com)
