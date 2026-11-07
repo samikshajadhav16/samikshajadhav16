@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffa5ab&height=200&section=header&text=Samiksha%20Jadhav&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Computer%20Engineering%20%40%20PICT&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d6dheight=200&section=header&text=Samiksha%20Jadhav&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Computer%20Engineering%20%40%20PICT&descSize=18&descAlignY=60" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Samiksha+%F0%9F%91%8B;Building+things+with+code+%26+data;Turning+ideas+into+impact+!!!" alt="Typing SVG" />
 </div>
@@ -99,4 +99,4 @@ Built for **Hacknova'26**. Reads a student team's Git activity and task board to
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samikshajadhavwork@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/samiksha_jadhav16/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffa5ab&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d6d&height=120&section=footer" width="100%" />
